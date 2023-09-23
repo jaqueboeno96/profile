@@ -1,0 +1,87 @@
+{
+  "name": "Jaqueline Boeno",
+  "photo": "https://avatars.githubusercontent.com/u/106850204?s=400&u=4a1f8084fe4e676309baec42a5e7b72a957b5cd8&v=4",
+  "job": "Desenvolvedora Júnior
+  "location": "Araucária - PR",
+  "phone": "(41) 98853-5887",
+  "email": "jaqueboeno96@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência",
+      "Adaptabilidade",
+      "Flexibilidade",
+      "Organização",
+      "Criatividade"
+
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/jaqueboeno96/pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na Udemy para a criação de uma página Prime-flix",
+      "url": "https://github.com/jaqueboeno96/projeto-prime-flix",
+      "github": true
+    }
+      ],
+      "educacion": [
+        {
+          "name": " Análise e Desenvolvimento de Sistemas / Universidade Estácio de Sá",
+          "period": "2021 - até o momento",
+        },
+        {
+          "name": "Técnico em Meio Ambiented / Senai Cidade Industrial",
+          "period": "2012 - 2014",
+        },
+        {
+          "name": "Ensino Médio / Colégio Sesi Araucária",
+          "period": "2011 - 2013",
+        }
+      ],
+  "professionalExperience": [
+    {
+      "name": "Estagiária em  Ti / CSN - Companhia Siderúrgica Nacional ",
+      "period": "2023 - até o momento",
+      "description": "Criação de sistemas internos (aplicativos utilizando power apps e share point), desenvolvimento de scripts em python, atualização de planilhas, controle de inventário de embalagens e auxílio na análise de dados (qlik sense)."
+    },
+   {
+      "name": "Agente Administrativo / Softmarketing Soluções em Comunicação",
+      "period": "2021 - 2022",
+      "description": "Atuava no backoffice em tratativas de estorno e cancelamento de pagamentos de produtos não entregues corretamente, notificação ao cliente, finalização de atendimento, fidelização do cliente."
+    }
+  ]
+}
